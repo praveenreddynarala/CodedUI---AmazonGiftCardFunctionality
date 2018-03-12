@@ -1,0 +1,4 @@
+D:\Praveenreddy Narala\CodedUI_Projects\AmazonGiftCardFunctionality\AmazonGiftCardFunctionality\bin\Debug\AmazonGiftCardFunctionality.dll
+D:\Praveenreddy Narala\CodedUI_Projects\AmazonGiftCardFunctionality\AmazonGiftCardFunctionality\bin\Debug\AmazonGiftCardFunctionality.pdb
+D:\Praveenreddy Narala\CodedUI_Projects\AmazonGiftCardFunctionality\AmazonGiftCardFunctionality\obj\Debug\AmazonGiftCardFunctionality.dll
+D:\Praveenreddy Narala\CodedUI_Projects\AmazonGiftCardFunctionality\AmazonGiftCardFunctionality\obj\Debug\AmazonGiftCardFunctionality.pdb
